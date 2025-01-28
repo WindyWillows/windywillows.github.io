@@ -24,6 +24,6 @@ This blog exists primarily so I can clarify my own thoughts on certain topics ho
 <br>
 <br>
 <br>
-* While I possess no formal education in history or the humanities in general, the author of the 2021 award winning biography of him, Ananyo Bhattacharya, did once offer to help me write a full blown book on him.
+\* While I possess no formal education in history or the humanities in general, the author of the 2021 award winning biography of him, Ananyo Bhattacharya, did once offer to help me write a full blown book on him.
 
 [jekyll-organization]: https://github.com/jekyll
