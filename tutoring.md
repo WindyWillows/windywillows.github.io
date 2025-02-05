@@ -12,7 +12,14 @@ I have experience  tutoring students from year 8 up to the university level and 
 
 I am well versed in the  skills required to succeed in these subjects and can provide guidance on the kind of things that teachers and exam markers are looking for in  your work and more generally on how to build strong study and research  skills that are necessary for your further education. My personal  interests are in mathematical physics and software development.
 
-I charge a flat $50/hour rate which also includes help outside of direct  tutoring sessions when I am available. Outside of academics I play tennis competitively, follow the EPL, and like memes :)
+I charge a flat $50/hour rate which also includes help outside of direct  tutoring sessions when I am available. Outside of academics I play tennis competitively (which I can also give coaching for the same rate), follow the EPL, and like memes :)
+
+ATAR Subjects:
+- Mathematics Applications
+- Mathematics Methods
+- Mathematics Specialist
+- Physics
+- Computer Science
 
 Contacts -
 
